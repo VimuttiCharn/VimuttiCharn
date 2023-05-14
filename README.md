@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VimuttiCharn.
+- 👋 Hi, I’m @Cee.
 - 👀 I’m interested in probability & stochastic.
 - 🌱 I’m currently learning applied math.
 - 💞️ I’m looking to collaborate on markov chain applications.
